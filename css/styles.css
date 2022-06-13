@@ -48,5 +48,22 @@ meter {
 /**** R E S E T  end****/
 
 header{
-    padding: 1rem;
+    padding: 1.5rem;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul img{
+    width: 6rem;
+}
+
+li button{
+    font-size: 0.6rem;
+    border: 1px solid;
+    border-radius: 1rem;
+    padding: 0.3rem 1rem;
 }
