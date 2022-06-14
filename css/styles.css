@@ -1,4 +1,4 @@
-    /**** R E S E T  start****/
+/**** R E S E T  start****/
 *:where(:not(iframe, canvas, img, svg, video):not(svg *, symbol *)) {
   all: unset;
   display: revert;
@@ -47,24 +47,30 @@ meter {
 }
 /**** R E S E T  end****/
 
-header{
-    padding: 1.5rem;
+body {
+  /* font-family: 'Poppins', sans-serif; 700 // 400 600 700 */
+  font-family: "Open Sans", sans-serif;
 }
 
-nav ul{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+header {
+  padding: 1.5rem;
 }
 
-nav ul img{
-    width: 6rem;
+nav ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
-li button{
-    font-size: 0.6rem;
-    color: hsl(321, 100%, 78%);
-    border: 1px solid;
-    border-radius: 1rem;
-    padding: 0.3rem 1rem;
+nav ul img {
+  width: 6rem;
+}
+
+li button {
+  font-size: 0.6rem;
+  font-weight: 400;
+  color: hsl(321, 100%, 78%);
+  border: 1px solid;
+  border-radius: 1rem;
+  padding: 0.3rem 1rem;
 }
