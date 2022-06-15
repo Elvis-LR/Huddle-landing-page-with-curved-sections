@@ -99,5 +99,5 @@ header>button{
   background-color: hsl(322, 100%, 66%);
   border-radius: 1rem;
   padding: 0.5rem 2rem;
-  flex: 0 1 auto;
+  align-self: center;
 }
