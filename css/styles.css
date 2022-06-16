@@ -52,6 +52,7 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+                /* HEADER */
 header {
   padding: 1.5rem;
   display: flex;
@@ -101,3 +102,5 @@ header>button{
   padding: 0.5rem 2rem;
   align-self: center;
 }
+
+                    
