@@ -52,7 +52,7 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
-                /* HEADER */
+/* HEADER */
 header {
   padding: 1.5rem;
   display: flex;
@@ -78,8 +78,8 @@ li button {
   padding: 0.3rem 1rem;
 }
 
-h1{
-  font-family: 'Poppins', sans-serif;
+h1 {
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   font-size: 1.6rem;
   text-align: center;
@@ -87,13 +87,13 @@ h1{
   margin-bottom: 1.5rem;
 }
 
-header p{
+header p {
   font-weight: 400;
   text-align: center;
   margin-bottom: 2.5rem;
 }
 
-header>button{
+header > button {
   font-size: 0.6rem;
   font-weight: 600;
   color: hsl(0, 0%, 100%);
@@ -103,4 +103,8 @@ header>button{
   align-self: center;
 }
 
-               /* main      */
+/* main      */
+
+main img{
+  padding: 1.5em;
+}
