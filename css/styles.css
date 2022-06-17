@@ -108,3 +108,19 @@ header > button {
 main img{
   padding: 1.5em;
 }
+
+.counts{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.counts img{
+  padding: 0rem;
+  width: 1.5rem;
+}
+
+.counts .counting{
+  font-size: 3rem;
+  font-weight: 700;
+}
