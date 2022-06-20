@@ -118,9 +118,13 @@ main img{
 .counts img{
   padding: 0rem;
   width: 1.5rem;
+  
 }
 
 .counts .counting{
   font-size: 3rem;
   font-weight: 700;
+  margin-bottom: 0.5rem;
 }
+
+/****continue***/
