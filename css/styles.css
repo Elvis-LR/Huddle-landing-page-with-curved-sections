@@ -53,7 +53,7 @@ body {
 }
 
 .container{
-  
+  padding: 1.5rem;
 }
 header {
   display: flex;
