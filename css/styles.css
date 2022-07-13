@@ -143,9 +143,10 @@ section h2{
   font-weight: 700;
   margin-bottom: 1rem;
 }
+
 footer{
   background-color: hsl(192, 100%, 9%);
-  
+  font-size: 2rem;
 }
 
  
