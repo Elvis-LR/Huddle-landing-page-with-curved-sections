@@ -1,4 +1,6 @@
-let hora = prompt("que hora es"4444);
+let uno = "1";
+let dos = 2;
 
-alert("Son las " + hora);
+let resultado = uno + dos;
 
+console.log(resultado)
